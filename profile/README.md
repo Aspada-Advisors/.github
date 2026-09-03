@@ -4,7 +4,7 @@ Welcome to the official GitHub profile for **Aspada Advisors**.
 
 ## About Us
 
-Aspada Advisors is focused on building thoughtful, reliable solutions that help teams operate with clarity and confidence.
+Aspada Advisors is an AI-native investment operating system.
 
 ## What You'll Find Here
 
